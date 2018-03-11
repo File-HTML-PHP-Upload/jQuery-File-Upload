@@ -1,6 +1,5 @@
 # jQuery-File-Upload
 
-https://github.com/HTML-PHP-Flash-JS-File-Upload/jQuery-File-Upload/edit/master/README.md
 ![alt tag](https://github.com/HTML-PHP-Flash-JS-File-Upload/jQuery-File-Upload/blob/master/jQuery-File-Upload.PNG)
 
 # jQuery File Upload Plugin
